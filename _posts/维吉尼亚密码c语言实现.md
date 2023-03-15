@@ -1,5 +1,3 @@
-  
-  
 ---
 layout:     post
 title:      密码学笔记
@@ -11,6 +9,7 @@ catalog: true
 tags:
     - 密码学
     - 维吉尼亚密码
+    
 ---
 
 # 维吉尼亚密码实现
